@@ -1,1 +1,1 @@
-# data_analyst_training
+# data_analyst_basic_project
